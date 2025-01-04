@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>clock</name>
+  <version>0.1.0</version>
+  <description>The clock package</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>TODO</license>
+</package>
